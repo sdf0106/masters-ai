@@ -1,0 +1,24 @@
+
+# Workflow Documentation
+
+## Prompt 1:
+"Summarize the first lecture based on the provided transcript, emphasizing key topics discussed and the course structure. Format the content as a blog post."
+
+### Completion:
+(Content above under 'Lecture Highlights', 'Course Structure', and 'Interactive Insights')
+
+## Prompt 2:
+"Generate an illustration of a conceptual AI learning path with nodes and connections, suitable for educational content."
+
+### Completion:
+[Generated an illustration of AI learning path and saved as `ai_learning_path.png`]
+
+## Prompt 3:
+"Generate an illustration of a group discussion about machine learning concepts, with diverse participants."
+
+### Completion:
+[Generated an illustration of machine learning discussion and saved as `machine_learning_discussion.png`]
+
+## Final Step:
+- Saved blog post in `README.md` file.
+- Saved this workflow documentation in `workflow.txt` file.
